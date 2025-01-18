@@ -1,0 +1,4 @@
+secret database= "lol"
+username = "oboy"
+
+password ="hahaa123"
